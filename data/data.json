@@ -441,10 +441,40 @@
     "quote": "Houston, we have a problem.",
     "movie": "Apollo 13"
   },
-	
-	
+		
   {
     "quote": "Look, spaghetti arms. This is my dance space. This is your dance space. I don't go into yours, you don't go into mine. You gotta hold the frame.",
     "movie": "Dirty Dancing",
-  }
+  },
+
+{
+    "quote": "We're the middle children of history, man. No purpose or place. We have no Great War. No Great Depression. Our Great War's a spiritual war... our Great Depression is our lives.", 
+    "movie": "Fight Club, 1999."
+},
+	
+{
+    "quote": "We've all been raised on television to believe that one day we'd all be millionaires, and movie gods, and rock stars. But we won't.",	
+    "movie": "Fight Club, 1999."
+},
+	
+{
+    "quote": "The journey of a thousand kilometers begins with the first step.",
+    "movie": "Lion king 3, 2004."
+},
+
+{
+    "quote": "Happiness only real when shared",
+    "movie": "Into the wild, 2007."
+},
+
+{
+    "quote": "Hello… I Want to play a game.",
+    "movie": "SAW, 2004."
+},
+	
+{
+    "quote": "It's only after we've lost everything that we're free to do anything.",
+    "movie": "Fight Club, 1999."	
+},
+	
 ]
